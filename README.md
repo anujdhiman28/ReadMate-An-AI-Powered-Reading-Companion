@@ -1,0 +1,4 @@
+# ReadMate-An-AI-Powered-Reading-Companion
+The primary aim of this project is to design and develop an AI-powered assistive reading system that helps individuals with dyslexia improve their reading fluency, comprehension, and confidence. The system, titled ReadMate – An AI-Powered Reading Companion, leverages speech recognition, facial emotion detection, and natural language processing (NLP) to create an adaptive, emotionally responsive reading environment.
+
+	ReadMate’s goal is not merely to assess how accurately a user reads a given text, but also to understand the emotional state of the reader while they read. By analyzing both verbal performance and non-verbal emotional cues, the system provides supportive and personalized feedback that adapts in real time. The overarching aim is to build a human-centered learning tool that transforms reading from a stressful activity into a positive and engaging experience for learners with dyslexia
